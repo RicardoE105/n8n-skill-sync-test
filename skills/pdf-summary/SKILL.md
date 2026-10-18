@@ -8,4 +8,4 @@ description: Use to summarise a PDF in five bullet points.
 Read the whole file first.
 Write five bullet points.
 Keep each bullet under 20 words.
-Keep​ it short.
+Keep it short.
