@@ -6,7 +6,8 @@ license: MIT
 
 # Release notes
 
-Group the changes by area.
+Group the changes by area: Features, Fixes, Docs.
+Put breaking changes first, under "Breaking".
 Write one line for each change.
 Use the past tense.
 Link each line to its pull request on https://github.com.
